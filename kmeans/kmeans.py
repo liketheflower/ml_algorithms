@@ -1,3 +1,8 @@
+"""
+Jimmy shen
+This is a quick implementation of the K-means algorithms by using Numpy.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 N = 4000
